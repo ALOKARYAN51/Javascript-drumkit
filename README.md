@@ -1,2 +1,2 @@
 # Javascript-drumkit
-<img align="right" alt="Coding" width="400" src="Javascripdrumkit-logo.png">
+<img align="right" alt="Coding" width="" src="javascripdrumkit-logo.png">
